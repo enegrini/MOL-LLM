@@ -2,13 +2,13 @@
 Repository for the paper "Multimodal Operator Learning with Large Language Models: Bridging Numerical Solutions and Scientific Text Descriptions" by E. Negrini, Y.Liu, L.Yang, S. J. Osher,H. Schaeffer. 
 
 # ODEs indices
-# 1D
- "du_dt = a*sin(2 * pi * t)*u" = 0
- "du_dt = a*exp(-t) + b" = 1
- "du_dt = a*t**2 * cos(u)+ b*u" = 2
- "du_dt = a*sin(exp(-0.5 * t) * sin(3 * t)) + b*u" = 3
- "du_dt = a*t * sin(u)" = 4
-# 3D
+### 1D
+ "du_dt = a*sin(2 * pi * t)*u" = 0  
+ "du_dt = a*exp(-t) + b" = 1  
+ "du_dt = a*t**2 * cos(u)+ b*u" = 2  
+ "du_dt = a*sin(exp(-0.5 * t) * sin(3 * t)) + b*u" = 3  
+ "du_dt = a*t * sin(u)" = 4  
+### 3D
  SIR = 5
  Neural = 6
 # 2D
