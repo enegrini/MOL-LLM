@@ -1,0 +1,8 @@
+{
+    "folder": "Extrap_ODEs/",
+    "text_filename": "train_text.prefix",
+    "data_filename": "train_data.h5",
+    "env_base_seed": 40,
+    "max_dimension": 128,
+    "max_number_coeffs": 4
+}

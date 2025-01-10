@@ -1,0 +1,10 @@
+{
+  "demo_id_dim": 4,
+  "index_mode": "double",
+  "k_dim": 3,
+  "v_dim": 1,
+  "causal": "caption",
+  "caption_len": 150,
+  "input_net": {"hidden_dim": 1024},
+  "output_net": {"hidden_dim": 1024}
+}

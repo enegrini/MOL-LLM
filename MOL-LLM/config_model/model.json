@@ -1,0 +1,14 @@
+{
+    "emb_dim": 768,
+    "n_hidden_layers": 1,
+    "n_heads": 8,
+    "n_layers": 8,
+    "dropout": 0,
+    "attention_dropout": 0,
+    "query_src_dim": 1,
+    "positional_embeddings": "",
+    "input_dimension": 128,
+    "output_dimension": 128,
+    "max_dimension": 128,
+    "max_number_coeffs": 4
+}

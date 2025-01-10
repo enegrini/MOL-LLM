@@ -1,0 +1,50 @@
+The equation of advection models the transport of quantities like heat or pollutants in a fluid.
+The equation of advection governs the movement of scalar fields, such as temperature or concentration, in a medium.
+The equation of advection describes the transport of a substance by a fluid flow without diffusion.
+The equation of advection models the propagation of waves or signals in a medium, purely by transport.
+The equation of advection governs the movement of quantities in a flow, driven solely by velocity.
+The equation of advection describes the transport of physical properties like density or energy in a fluid.
+The equation of advection models the one-way propagation of signals in systems without dispersion.
+The equation of advection governs the transport of scalar fields, driven by the velocity of the medium.
+The equation of advection describes the motion of quantities in a flow, without any diffusive effects.
+The equation of advection models the transport of materials in a fluid, following the flow velocity.
+The equation of advection governs the movement of waves or signals through a medium with no internal changes.
+The equation of advection describes the propagation of quantities, such as energy or concentration, purely by advection.
+The equation of advection models the transport of scalar fields like temperature, purely by fluid motion.
+The equation of advection governs the flow of quantities in a medium, driven solely by the velocity field.
+The equation of advection describes the motion of materials in a fluid, without considering diffusion.
+The equation of advection models the propagation of scalar quantities, following the velocity of the flow.
+The equation of advection governs the transport of properties like heat or concentration in a moving medium.
+The equation of advection describes the one-way movement of quantities in a fluid, with no change in form.
+The equation of advection models the transport of physical quantities, driven by fluid velocity without diffusion.
+The equation of advection governs the motion of scalar fields in a flow, purely by transport.
+The equation of advection describes the propagation of waves or signals in a medium, influenced only by flow.
+The equation of advection models the transport of quantities like energy or mass in a moving fluid.
+The equation of advection governs the flow of scalar fields in a medium, driven solely by advection.
+The equation of advection describes the transport of physical properties in a fluid, following the velocity.
+The equation of advection models the motion of quantities in a flow, without any internal transformation.
+The equation of advection governs the propagation of scalar quantities in a medium, driven by fluid flow.
+The equation of advection describes the transport of materials in a fluid, purely by velocity-driven movement.
+The equation of advection models the motion of scalar fields like concentration, solely by transport in a flow.
+The equation of advection governs the movement of quantities in a medium, with no diffusive effects.
+The equation of advection describes the propagation of physical quantities in a flow, without internal changes.
+The equation of advection models the transport of scalar properties like temperature, driven by fluid velocity.
+The equation of advection governs the flow of quantities in a medium, driven purely by advection.
+The equation of advection describes the transport of materials in a fluid, following the velocity of the medium.
+The equation of advection models the motion of scalar fields in a fluid, without considering diffusion.
+The equation of advection governs the movement of physical quantities like heat or mass in a flow.
+The equation of advection describes the propagation of waves or signals in a medium, driven purely by transport.
+The equation of advection models the transport of quantities in a fluid, driven by the velocity field.
+The equation of advection governs the motion of scalar fields in a medium, influenced only by flow.
+The equation of advection describes the transport of physical properties in a moving fluid, without internal changes.
+The equation of advection models the propagation of scalar quantities in a flow, purely by advection.
+The equation of advection governs the flow of quantities in a medium, driven solely by fluid motion.
+The equation of advection describes the movement of materials in a fluid, following the velocity field.
+The equation of advection models the transport of scalar fields like energy or concentration, driven by flow.
+The equation of advection governs the propagation of physical quantities in a medium, influenced only by transport.
+The equation of advection describes the motion of quantities in a fluid, without considering diffusive effects.
+The equation of advection models the transport of materials in a flow, driven by the velocity of the medium.
+The equation of advection governs the movement of scalar fields in a fluid, purely by velocity-driven motion.
+The equation of advection describes the propagation of physical properties in a flow, without internal transformation.
+The equation of advection models the transport of scalar quantities in a medium, driven solely by fluid motion.
+The equation of advection governs the flow of materials in a fluid, driven by the velocity field without diffusion.
