@@ -1,5 +1,6 @@
 # Multimodal Operator Learning with Large Language Models: Bridging Numerical Solutions and Scientific Text Descriptions
 Repository for the paper _"Multimodal Operator Learning with Large Language Models: Bridging Numerical Solutions and Scientific Text Descriptions"_ by Elisa Negrini, Yuxuan Liu, Liu Yang, Stanley J. Osher, Hayden Schaeffer. 
+Available at https://www.arxiv.org/abs/2502.06026
 
 ## Data Generation
 Run **gen_data.sh**  
